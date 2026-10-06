@@ -1,0 +1,4 @@
+bin/
+obj/
+dados/estado-estoque.json
+dados/estado-estoque.json.*
